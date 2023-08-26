@@ -1,4 +1,4 @@
-# Clipboard Website
+# Email Suscribe Card Website
 
 Pagina hecha con tailwindcss
 
